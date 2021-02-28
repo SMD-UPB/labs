@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LogLevel</string>
+    <string name="debug">debug</string>
+    <string name="info">info</string>
+    <string name="warn">warn</string>
+    <string name="error">error</string>
+</resources>
