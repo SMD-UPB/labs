@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StorageExamples</string>
+    <string name="storage_type_key">storage-type</string>
+    <string name="insert_url">Image url</string>
+    <string name="download">Download</string>
+    <string name="show_image">Load Image</string>
+
+</resources>
