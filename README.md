@@ -1,2 +1,2 @@
 # labs
-Lab activities code resources
+Code resources for lab activities
