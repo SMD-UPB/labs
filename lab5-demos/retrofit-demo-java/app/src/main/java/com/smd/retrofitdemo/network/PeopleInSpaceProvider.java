@@ -1,7 +1,5 @@
 package com.smd.retrofitdemo.network;
 
-import com.facebook.stetho.okhttp3.StethoInterceptor;
-import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
@@ -21,9 +19,6 @@ public class PeopleInSpaceProvider {
             retrofit = new Retrofit
                     .Builder()
                     .baseUrl(BASE_URL)
-                    .client(new OkHttpClient.Builder()
-                            .addNetworkInterceptor(new StethoInterceptor())
-                            .build())
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
         }

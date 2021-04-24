@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         Button showPeopleButton = findViewById(R.id.show_button);
         showPeopleButton.setOnClickListener(v -> peopleInSpaceViewModel.getPeopleInSpace());
 
-        RecyclerView astronauts = findViewById(R.id.companionMetricsRecycler);
+        RecyclerView astronauts = findViewById(R.id.astronauts_list);
         astronauts.setAdapter(peopleInSpaceAdapter);
 
         peopleCountTextView = findViewById(R.id.count_tv);

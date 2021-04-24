@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="show_people_in_space">Show people in space</string>
+    <string name="no_data">No data</string>
+    <string name="astronauts_count">%1$d astronauts</string>
+</resources>

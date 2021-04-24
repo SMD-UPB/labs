@@ -17,7 +17,7 @@
         android:textSize="14sp" />
 
     <TextView
-        android:id="@+id/count_tv"
+        android:id="@+id/astronauts_count_textview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
