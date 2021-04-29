@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySecureApp</string>
+    <string name="save_pin">Save Pin</string>
+    <string name="input_pin">PIN</string>
+    <string name="pin_description">Description</string>
+    <string name="show_pin">Show pin</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="enter_description">Enter description</string>
+</resources>
